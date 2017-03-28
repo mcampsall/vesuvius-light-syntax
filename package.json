@@ -2,9 +2,10 @@
   "name": "vesuvius-light-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A light syntax theme designed specifically for use with react-native",
   "keywords": [
     "syntax",
+    "light",
     "theme"
   ],
   "repository": "https://github.com/atom/vesuvius-light-syntax",
